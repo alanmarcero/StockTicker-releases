@@ -3,13 +3,13 @@
     <channel>
         <title>Stonks</title>
         <item>
-            <title>1.3.0</title>
-            <pubDate>Fri, 06 Nov 2026 10:44:01 -0500</pubDate>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <title>1.3.1</title>
+            <pubDate>Fri, 06 Nov 2026 13:37:45 -0500</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/alanmarcero/StockTicker-releases/releases/download/v1.3.0/Stonks-1.3.0.zip" length="2557664" type="application/octet-stream" sparkle:edSignature="BLG5mNwuyNZ74N2EiH373TZZpkdg0ewnHEXIQM/MvUXGopsx6z9mAB3GiaVTIikLCeQRMVcWCKxCQGhnwp/1DQ=="/>
+            <enclosure url="https://github.com/alanmarcero/StockTicker-releases/releases/download/v1.3.1/Stonks-1.3.1.zip" length="2559458" type="application/octet-stream" sparkle:edSignature="cC12ORT1kQEYb2kzFsfa1XO81ufv86urc+W+x5wYK1oUmHncyHp48XHdBWAkDzq0yyeZj74J5OuUW3jp/aD7BA=="/>
         </item>
     </channel>
 </rss>
